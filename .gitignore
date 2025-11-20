@@ -1,0 +1,14 @@
+# binários e objetos
+*.o
+*.out
+*.exe
+super_trunfo
+
+# arquivos temporários
+*.swp
+*.tmp
+*.bak
+
+# VSCode / IDEs
+.vscode/
+.idea/
